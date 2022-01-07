@@ -1,0 +1,9 @@
+[submodule "ov-container"]
+	path = ov-container
+	url = git@github.com:kesheng/ov-container.git
+[submodule "ov-home"]
+	path = ov-home
+	url = git@github.com:kesheng/ov-home.git
+[submodule "ov-blog"]
+	path = ov-blog
+	url = git@github.com:kesheng/ov-blog.git
